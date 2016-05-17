@@ -1,0 +1,4 @@
+HTML:
+	Averages: hex colour: #000, red: 0, green: 0, blue: 0
+HSL:
+	Averages: hue: 0°, saturation: 0%, value: 0%
